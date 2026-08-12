@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rayane Benkradidja 👋
 
-🚀 Front-End Developer&nbsp;&nbsp;|&nbsp;&nbsp;🎓 ESI Algiers Student&nbsp;&nbsp;|&nbsp;&nbsp;💡 Passionate about Innovation
+🚀 Front-End Developer&nbsp;&nbsp;|&nbsp;&nbsp;🎓 ESI Algiers Student&nbsp;&nbsp;|&nbsp;&nbsp;💡 Passionate about Software
 
 </div>
 
