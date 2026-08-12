@@ -11,12 +11,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 4th-year student at the National Higher School of Computer Science (ESI Algiers)
-- 🖥️ I design modern, responsive, and interactive web interfaces with a strong focus on UX, smooth animations, and performance
-- 🧠 Project Assistant & Front-End Lead at the ESI Scientific Club (CSE)
+- 🧠 Project Assistant & Front-End Devloper at the ESI Scientific Club (CSE)
 - 🔭 Currently building **ESI-Flow**, **CSE Forums**, and the **CSE Organizer Web App**
-- 🌱 Exploring backend architecture with Python & Django alongside my front-end work
 - 💬 I enjoy building things with Next.js, React, and Tailwind CSS
-- 🧑‍💻 I've contributed to platforms and tools for my club and academic projects, from interface integration to connecting with backend APIs
 
 ---
 
